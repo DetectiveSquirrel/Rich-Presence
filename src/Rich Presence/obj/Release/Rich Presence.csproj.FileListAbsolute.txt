@@ -1,0 +1,8 @@
+F:\Tools\Path of Exile Tools\Macros\plugins\UNUSED\Rich Presence\Rich Presence.dll
+F:\Tools\Path of Exile Tools\Macros\plugins\UNUSED\Rich Presence\Rich Presence.pdb
+F:\Coding\Source Files\PoeHUD Plugins\Rich Presence\Rich Presence\obj\Release\Rich Presence.csproj.CoreCompileInputs.cache
+F:\Coding\Source Files\PoeHUD Plugins\Rich Presence\Rich Presence\obj\Release\Rich Presence.dll
+F:\Coding\Source Files\PoeHUD Plugins\Rich Presence\Rich Presence\obj\Release\Rich Presence.pdb
+F:\Tools\Path of Exile Tools\Macros\plugins\Rich Presence\Rich Presence.dll
+F:\Tools\Path of Exile Tools\Macros\plugins\Rich Presence\Rich Presence.pdb
+F:\Coding\Source Files\PoeHUD Plugins\Rich Presence\Rich Presence\obj\Release\Rich Presence.csprojAssemblyReference.cache
